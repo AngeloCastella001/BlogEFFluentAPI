@@ -1,0 +1,272 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Giorgi",
+    "Apellidos": "Struijs",
+    "Email": "gstruijs0@soup.io",
+    "Contrasena": "3TxIXa",
+    "DepartamentoId": 6,
+    "EncargadoId":0
+  },
+  {
+    "Id": 2,
+    "Nombre": "Ricki",
+    "Apellidos": "Hargrave",
+    "Email": "rhargrave1@e-recht24.de",
+    "Contrasena": "FkN44z5xY9pc",
+    "DepartamentoId": 2,
+    "EncargadoId":0
+  },
+  {
+    "Id": 3,
+    "Nombre": "Arch",
+    "Apellidos": "Allcorn",
+    "Email": "aallcorn2@ask.com",
+    "Contrasena": "Vh1KeLvx",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 4,
+    "Nombre": "Glyn",
+    "Apellidos": "Sanja",
+    "Email": "gsanja3@google.nl",
+    "Contrasena": "Y2RHhkWdz1rm",
+    "DepartamentoId": 6,
+    "EncargadoId":0
+  },
+  {
+    "Id": 5,
+    "Nombre": "Willy",
+    "Apellidos": "Oret",
+    "Email": "woret4@wisc.edu",
+    "Contrasena": "Eqf7NdpnhE",
+    "DepartamentoId": 6,
+    "EncargadoId":0
+  },
+  {
+    "Id": 6,
+    "Nombre": "Ezri",
+    "Apellidos": "Peare",
+    "Email": "epeare5@scientificamerican.com",
+    "Contrasena": "pcwoPmtASdjD",
+    "DepartamentoId": 3,
+    "EncargadoId":0
+  },
+  {
+    "Id": 7,
+    "Nombre": "Raul",
+    "Apellidos": "Meddings",
+    "Email": "rmeddings6@nasa.gov",
+    "Contrasena": "P9SvzGYMhm",
+    "DepartamentoId": 5,
+    "EncargadoId":0
+  },
+  {
+    "Id": 8,
+    "Nombre": "Masha",
+    "Apellidos": "Frantz",
+    "Email": "mfrantz7@lulu.com",
+    "Contrasena": "sDEmG1QvDfjA",
+    "DepartamentoId": 4,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 9,
+    "Nombre": "Bobette",
+    "Apellidos": "Ponting",
+    "Email": "bponting8@dot.gov",
+    "Contrasena": "rzqYDtPjq5",
+    "DepartamentoId": 5,
+    "EncargadoId":0
+  },
+  {
+    "Id": 10,
+    "Nombre": "Nefen",
+    "Apellidos": "Bastide",
+    "Email": "nbastide9@google.co.jp",
+    "Contrasena": "GN88DRgHsn",
+    "DepartamentoId": 6,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 11,
+    "Nombre": "Bella",
+    "Apellidos": "Beecraft",
+    "Email": "bbeecrafta@marketwatch.com",
+    "Contrasena": "Q06YvqGLeQO",
+    "DepartamentoId": 4,
+    "EncargadoId":0
+  },
+  {
+    "Id": 12,
+    "Nombre": "Rena",
+    "Apellidos": "Brickett",
+    "Email": "rbrickettb@sogou.com",
+    "Contrasena": "yPz2kKMW5QCd",
+    "DepartamentoId": 4,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 13,
+    "Nombre": "Benjamen",
+    "Apellidos": "Ash",
+    "Email": "bashc@tinypic.com",
+    "Contrasena": "5ok20DRKHE",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 14,
+    "Nombre": "Diena",
+    "Apellidos": "Cicullo",
+    "Email": "dcicullod@prlog.org",
+    "Contrasena": "si3DE1ni",
+    "DepartamentoId": 5,
+    "EncargadoId":0
+  },
+  {
+    "Id": 15,
+    "Nombre": "Clive",
+    "Apellidos": "Brandsma",
+    "Email": "cbrandsmae@si.edu",
+    "Contrasena": "sRpMcr",
+    "DepartamentoId": 1,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 16,
+    "Nombre": "Fin",
+    "Apellidos": "Try",
+    "Email": "ftryf@un.org",
+    "Contrasena": "DzRStyx",
+    "DepartamentoId": 6,
+    "EncargadoId":0
+  },
+  {
+    "Id": 17,
+    "Nombre": "Nadia",
+    "Apellidos": "Gwatkin",
+    "Email": "ngwatking@free.fr",
+    "Contrasena": "9fpxRJPABWq",
+    "DepartamentoId": 6,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 18,
+    "Nombre": "Tandy",
+    "Apellidos": "Farres",
+    "Email": "tfarresh@msu.edu",
+    "Contrasena": "hshAJzjlR",
+    "DepartamentoId": 5,
+    "EncargadoId":0
+  },
+  {
+    "Id": 19,
+    "Nombre": "Cati",
+    "Apellidos": "Assandri",
+    "Email": "cassandrii@weibo.com",
+    "Contrasena": "DLpanPhU",
+    "DepartamentoId": 1,
+    "EncargadoId":0
+  },
+  {
+    "Id": 20,
+    "Nombre": "Cris",
+    "Apellidos": "Jump",
+    "Email": "cjumpj@creativecommons.org",
+    "Contrasena": "Ohj7JobEoKVn",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 21,
+    "Nombre": "Guthrie",
+    "Apellidos": "Ferronel",
+    "Email": "gferronelk@networksolutions.com",
+    "Contrasena": "mVhapzv24V9",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 22,
+    "Nombre": "Hattie",
+    "Apellidos": "Skaife",
+    "Email": "hskaifel@google.com.au",
+    "Contrasena": "RoeqZhiBWweZ",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 23,
+    "Nombre": "Hannie",
+    "Apellidos": "Tenaunt",
+    "Email": "htenauntm@reverbnation.com",
+    "Contrasena": "qy7BAfN",
+    "DepartamentoId": 3,
+    "EncargadoId":0
+  },
+  {
+    "Id": 24,
+    "Nombre": "Skipton",
+    "Apellidos": "Freeburn",
+    "Email": "sfreeburnn@google.ca",
+    "Contrasena": "LuRaWc",
+    "DepartamentoId": 1,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 25,
+    "Nombre": "Enos",
+    "Apellidos": "Townley",
+    "Email": "etownleyo@altervista.org",
+    "Contrasena": "eLcsEJjBek5",
+    "DepartamentoId": 6,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 26,
+    "Nombre": "Gasper",
+    "Apellidos": "Maypole",
+    "Email": "gmaypolep@intel.com",
+    "Contrasena": "xQP8obDupD",
+    "DepartamentoId": 3,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 27,
+    "Nombre": "Jacky",
+    "Apellidos": "Jendrys",
+    "Email": "jjendrysq@sciencedirect.com",
+    "Contrasena": "Ok4wA6d",
+    "DepartamentoId": 2,
+    "EncargadoId": 0
+  },
+  {
+    "Id": 28,
+    "Nombre": "Melania",
+    "Apellidos": "Cutmere",
+    "Email": "mcutmerer@sphinn.com",
+    "Contrasena": "ezoi8mB",
+    "DepartamentoId": 2,
+    "EncargadoId":0
+  },
+  {
+    "Id": 29,
+    "Nombre": "Irma",
+    "Apellidos": "Willingale",
+    "Email": "iwillingales@mapquest.com",
+    "Contrasena": "JV3YVTsYCaB",
+    "DepartamentoId": 6,
+    "EncargadoId":0
+  },
+  {
+    "Id": 30,
+    "Nombre": "Lottie",
+    "Apellidos": "Tanswell",
+    "Email": "ltanswellt@twitter.com",
+    "Contrasena": "fan4Ozntj",
+    "DepartamentoId": 2,
+    "EncargadoId": 0
+  }
+]

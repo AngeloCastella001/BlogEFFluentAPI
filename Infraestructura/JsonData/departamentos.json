@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Informatica",
+    "AreaId": 3
+  },
+  {
+    "Id": 2,
+    "Nombre": "Mercadotecnia",
+    "AreaId": 1
+  },
+  {
+    "Id": 3,
+    "Nombre": "Gerencia General",
+    "AreaId": 1
+  },
+  {
+    "Id": 4,
+    "Nombre": "Recursos Humanos",
+    "AreaId": 2
+  },
+  {
+    "Id": 5,
+    "Nombre": "Recursos Materiales",
+    "AreaId": 2
+  },
+  {
+    "Id": 6,
+    "Nombre": "Contabilidad",
+    "AreaId": 2
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Gerencia"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Administracion"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Tecnologías"
+  }
+]

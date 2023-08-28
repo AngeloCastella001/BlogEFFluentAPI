@@ -1,0 +1,142 @@
+[
+  {
+    "UsuarioId": 1,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 1,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 2,
+    "PerfilId": 1
+  },
+  {
+    "UsuarioId": 3,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 4,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 5,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 6,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 6,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 7,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 8,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 9,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 10,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 10,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 11,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 12,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 13,
+    "PerfilId": 1
+  },
+  {
+    "UsuarioId": 13,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 14,
+    "PerfilId": 1
+  },
+  {
+    "UsuarioId": 15,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 16,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 17,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 18,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 19,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 20,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 20,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 21,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 22,
+    "PerfilId": 1
+  },
+  {
+    "UsuarioId": 23,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 24,
+    "PerfilId": 4
+  },
+  {
+    "UsuarioId": 25,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 26,
+    "PerfilId": 3
+  },
+  {
+    "UsuarioId": 27,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 28,
+    "PerfilId": 2
+  },
+  {
+    "UsuarioId": 29,
+    "PerfilId": 1
+  },
+  {
+    "UsuarioId": 30,
+    "PerfilId": 1
+  }
+]
